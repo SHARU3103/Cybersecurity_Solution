@@ -1,0 +1,31 @@
+{
+  "fast2smsDetails":{
+    "metaData":{
+      "authorization":"YOUR_KEY",
+      "url":"https://www.fast2sms.com/dev/bulk",
+      "sender_id":"FSTSMS",
+      "language":"english",
+      "route":"p"
+    },
+    "data":{
+      "message":"Now link is available, so you can process as required.",
+      "numbers":"1111111111,2222222222,3333333333"
+    }
+  },
+  "showDetails":{
+    "metaData":{
+      "sleepTime":19
+    },
+    "data":{
+      "movieLink":"https://in.bookmyshow.com/kolkata/movies/dwitiyo-purush/ET00109271"
+    }
+  },
+  "notificationDetails":{
+    "sms":1,
+    "sound":0
+  },
+  "soundDetails":{
+    "frequency":6000,
+    "duration":5000
+  }
+}
